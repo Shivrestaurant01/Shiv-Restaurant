@@ -109,6 +109,7 @@ Open `index.html` in your browser, or deploy to GitHub Pages for instant hosting
 ## 📜 License
 
 Proprietary. All Rights Reserved. You may not copy, modify, distribute, or use this software without explicit written permission from the owner.
+
 ---
 
 > **Made with ❤️ by [Akshay Ariya](https://github.com/akshayariya)**
